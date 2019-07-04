@@ -1,0 +1,7 @@
+spring.profiles.active: test
+universidad.carga:
+  profesores: C:/Users/apicopin/Documents/MiUniversidad/universidad/src/main/resources/profesores
+  asignaturas: C:/Users/apicopin/Documents/MiUniversidad/universidad/src/main/resources/asignaturas
+  alumnos: C:/Users/apicopin/Documents/MiUniversidad/universidad/src/main/resources/alumnos
+  examenes: C:/Users/apicopin/Documents/MiUniversidad/universidad/src/main/resources/examenes
+  resultadosexamen: C:/Users/apicopin/Documents/MiUniversidad/universidad/src/main/resources/resultadosexamen 

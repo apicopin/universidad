@@ -1,0 +1,14 @@
+server:
+  port: 8080
+spring.datasource:
+  url: jdbc:mariadb://localhost:3306/universidad
+  username: root
+  password: root
+spring.jpa.hibernate.ddl-auto: none
+spring.jpa.show-sql: true
+universidad.carga:
+  profesores: C:/Users/apicopin/Documents/MiUniversidad/universidad/src/main/resources/profesores
+  asignaturas: C:/Users/apicopin/Documents/MiUniversidad/universidad/src/main/resources/asignaturas
+  alumnos: C:/Users/apicopin/Documents/MiUniversidad/universidad/src/main/resources/alumnos
+  examenes: C:/Users/apicopin/Documents/MiUniversidad/universidad/src/main/resources/examenes
+  resultadosexamen: C:/Users/apicopin/Documents/MiUniversidad/universidad/src/main/resources/resultadosexamen
